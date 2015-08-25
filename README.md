@@ -1,8 +1,5 @@
 # hello-world
 
-[TOC]
-
----
 
 ##Time-Hornored Traditon
  At the beginning, we are accustomed to say "Hello World!".So, this is the reason why I created this project.
